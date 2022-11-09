@@ -6,7 +6,7 @@ This is a repository that contains all the tasks and projects i did on the 100 d
 
 ## Contents
 
-* **Day 1 [Working with variables in python to manage data]
+* **Day 1** [Working with variables in python to manage data]
 
 
 
