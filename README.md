@@ -16,45 +16,45 @@ This is a repository that contains all the tasks and projects i did on the 100 d
 
 * **Day 5** [Python Loops](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day05)
 
-* **Day 6** [Python Functions & Karel]
+* **Day 6** [Python Functions & Karel](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day06)
 
-* **Day 7** [Hangman]
+* **Day 7** [Hangman](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day07)
 
-* **Day 8** [Function Parameters & Caesar Cipher]
+* **Day 8** [Function Parameters & Caesar Cipher](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day08)
 
-* **Day 9** [Dictionaries, Nesting and the Secret Auction]
+* **Day 9** [Dictionaries, Nesting and the Secret Auction](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day09)
 
-* **Day 10** [Function Return Values and the Calculator Project]
+* **Day 10** [Function Return Values and the Calculator Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day10)
 
-* **Day 11** [Blackjack Capstone Project]
+* **Day 11** [Blackjack Capstone Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day11)
 
-* **Day 12** [Scope and Namespacing in Python]
+* **Day 12** [Scope and Namespacing in Python](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day12)
 
-* **Day 13** [Debugging: How to Find and Fix Errors in your Code]
+* **Day 13** [Debugging: How to Find and Fix Errors in your Code](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day13)
 
-* **Day 14** [Higher Lower Game Project]
+* **Day 14** [Higher Lower Game Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day14)
 
-* **Day 15** [Local Development Environment Setup & the Coffee Machine]
+* **Day 15** [Local Development Environment Setup & the Coffee Machine](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day15)
 
-* **Day 16** [Object Oriented Programming (OOP)]
+* **Day 16** [Object Oriented Programming (OOP)](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day16)
 
-* **Day 17** [The Quiz Project & the Benefits of OOP]
+* **Day 17** [The Quiz Project & the Benefits of OOP](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day17)
 
-* **Day 18** [Turtle & the Graphical User Interface (GUI)]
+* **Day 18** [Turtle & the Graphical User Interface (GUI)](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day18)
 
-* **Day 19** [Instances, State and Higher Order Functions]
+* **Day 19** [Instances, State and Higher Order Functions](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day19)
 
-* **Day 20** [Build the Snake Game Part 1: Animation & Coordinates]
+* **Day 20** [Build the Snake Game Part 1: Animation & Coordinates](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day20)
 
-* **Day 21** [Build the Snake Game Part 2: Inheritance & List Slicing]
+* **Day 21** [Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day21)
 
-* **Day 22** [Build Pong: The Famous Arcade Game]
+* **Day 22** [Build Pong: The Famous Arcade Game](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day22)
 
-* **Day 23** [The Turtle Crossing Capstone Project]
+* **Day 23** [The Turtle Crossing Capstone Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day23)
 
-* **Day 24** [Files, Directories and Paths]
+* **Day 24** [Files, Directories and Paths](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day24)
 
-* **Day 25** [Working with CSV Data and the Pandas Library]
+* **Day 25** [Working with CSV Data and the Pandas Library](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day25)
 
 * **Day 26** [List Comprehension and the NATO Alphabet]
 
