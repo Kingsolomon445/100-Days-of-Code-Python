@@ -8,13 +8,13 @@ This is a repository that contains all the tasks and projects i did on the 100 d
 
 * **Day 1** [Working with variables in python to manage data](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day01)
 
-* **Day 2** [Understanding Data Types and How to Manipulate Strings]
+* **Day 2** [Understanding Data Types and How to Manipulate Strings](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day02)
 
-* **Day 3** [Control Flow and Logical Operators]
+* **Day 3** [Control Flow and Logical Operators](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day03)
 
-* **Day 4** [Randomisation and Python Lists]
+* **Day 4** [Randomisation and Python Lists](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day04)
 
-* **Day 5** [Python Loops]
+* **Day 5** [Python Loops](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day05)
 
 * **Day 6** [Python Functions & Karel]
 
