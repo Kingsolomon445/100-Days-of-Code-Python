@@ -3,6 +3,8 @@
 
 This is a repository that contains all the tasks and projects i did on the 100 days of code (udemy course) by Angela Yu
 
+Still in progress.........
+
 
 ## Contents
 
@@ -56,7 +58,7 @@ This is a repository that contains all the tasks and projects i did on the 100 d
 
 * **Day 25** [Working with CSV Data and the Pandas Library](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day25)
 
-* **Day 26** [List Comprehension and the NATO Alphabet]
+* **Day 26** [List Comprehension and the NATO Alphabet]()
 
 * **Day 27** 
 
