@@ -58,9 +58,9 @@ Still in progress.........
 
 * **Day 25** [Working with CSV Data and the Pandas Library](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day25)
 
-* **Day 26** [List Comprehension and the NATO Alphabet]()
+* **Day 26** [List Comprehension and the NATO Alphabet](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day26)
 
-* **Day 27** 
+* **Day 27** [Intermediate -Tkinter, *args, **kwargs and creating GUI Programs](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day27)
 
 * **Day 28**
 
