@@ -68,7 +68,7 @@ Still in progress.........
 
 * **Day 30** [Intermediate -Error, Exceptions and JSON Data, Improving Password](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day30)
 
-* **Day 31**[Intermediate -Flash Card App Capstone Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day31)
+* **Day 31** [Intermediate -Flash Card App Capstone Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day31)
 
 
 
