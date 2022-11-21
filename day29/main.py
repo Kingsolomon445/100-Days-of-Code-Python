@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 from random import randint, choice, sample
 import pyperclip
+import json
 
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
@@ -25,6 +26,12 @@ def generate_password():
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 
 def save_password():
+    new_data = {
+        entry1.get(): {
+            "email": entry2.get(),
+            "password": entry3.get(),
+        }
+    }
     if len(entry1.get()) < 1 or len(entry3.get()) < 1:
         messagebox.showinfo(title="Invalid", message="The fields can't be empty!")
     else:
@@ -32,10 +39,31 @@ def save_password():
                                                                    f"{entry2.get()} \nPassword: {entry3.get()}"
                                                                    f"\nIs it okay to save?")
         if is_ok:
-            with open("data.txt", "a") as data:
-                data.write(f"Website: {entry1.get()}\nEmail: {entry2.get()}\nPassword: {entry3.get()}\n\n")
-    entry1.delete(0, END)  # Deletes between two indices provided simply first, end
-    entry3.delete(0, END)
+            try:
+                with open("data.json", "r") as data:
+                    updated_data = json.load(data)  # reading data from json
+                    updated_data.update(new_data)  # updating the json file with new data
+            except FileNotFoundError:
+                updated_data = new_data
+            finally:
+                with open("data.json", "w") as data:
+                    json.dump(updated_data, data, indent=4)  # updating json if exists else writing to json
+        entry1.delete(0, END)  # Deletes between two indices provided simply first, end
+        entry3.delete(0, END)
+
+
+# ---------------------------- SEARCH PASSWORD ------------------------------- #
+def search_password():
+    try:
+        with open("data.json") as data:
+            data = json.load(data)
+            try:
+                messagebox.showinfo(title=entry1.get(), message=f"Email: {data[entry1.get()]['email']}\n"
+                                                                f"Password: {data[entry1.get()]['password']}")
+            except KeyError:
+                messagebox.showinfo(title="Not Found", message="Password Not Found!")
+    except FileNotFoundError:
+        messagebox.showinfo(title="Not Found", message="File Not Found!")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
@@ -58,19 +86,22 @@ label2.grid(row=2, column=0)
 label3 = Label(text="Password:")
 label3.grid(row=3, column=0)
 
-entry1 = Entry(width=35)
+entry1 = Entry(width=20)
 entry1.focus()  # This makes the cursor to type focused on this entry at every usage
-entry1.grid(row=1, column=1, columnspan=2)
+entry1.grid(row=1, column=1)
 
-entry2 = Entry(width=35)
+entry2 = Entry(width=37)
 entry2.insert(0, "")  # This allows the entry to always have a starting email
 entry2.grid(row=2, column=1, columnspan=2)
 
-entry3 = Entry(width=18)
+entry3 = Entry(width=20)
 entry3.grid(row=3, column=1)
 
 button = Button(text="Add", width=36, command=save_password)
 button.grid(row=4, column=1, columnspan=2)
+
+button1 = Button(text="Search", width=13, command=search_password)
+button1.grid(row=1, column=2)
 
 button3 = Button(text="Generate Password", command=generate_password)
 button3.grid(row=3, column=2)
