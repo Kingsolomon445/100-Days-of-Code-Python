@@ -62,9 +62,9 @@ Still in progress.........
 
 * **Day 27** [Intermediate -Tkinter, *args, **kwargs and creating GUI Programs](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day27)
 
-* **Day 28**
+* **Day 28** [Intermediate -Tkinter, Dynamic Typing and the pomodoro GUI Application](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day28)
 
-* **Day 29**
+* **Day 29** [Intermediate -Building a Password Manager GUI App with Tkinter](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day29)
 
 * **Day 30**
 
