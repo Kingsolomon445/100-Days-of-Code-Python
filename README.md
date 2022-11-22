@@ -70,6 +70,10 @@ Still in progress.........
 
 * **Day 31** [Intermediate -Flash Card App Capstone Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day31)
 
+* **Day 32** [Intermediate +Send Email(smtplib) and Manage Date and Time(datetime)](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day32)
+
+* **Day 33** [Intermediate+ API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day33)
+
 
 
 
