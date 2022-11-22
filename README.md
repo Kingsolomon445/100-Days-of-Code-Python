@@ -66,9 +66,9 @@ Still in progress.........
 
 * **Day 29** [Intermediate -Building a Password Manager GUI App with Tkinter](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day29)
 
-* **Day 30**
+* **Day 30** [Intermediate -Error, Exceptions and JSON Data, Improving Password](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day30)
 
-* **Day 31**
+* **Day 31** [Intermediate -Flash Card App Capstone Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day31)
 
 
 
