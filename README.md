@@ -74,6 +74,18 @@ Still in progress.........
 
 * **Day 33** [Intermediate+ API Endpoints & API Parameters - ISS Overhead Notifier](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day33)
 
+* **Day 34** [API Practice - Creating a GUI Quiz App](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day34)
+
+* **Day 35** [Keys, Authentication & Environment Variables: Send SMS](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day35)
+
+* **Day 36** [Stock Trading News Alert Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day36)
+
+* **Day 37** [Habit Tracking Project: API Post Requests & Headers](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day37)
+
+* **Day 38** [Workout Tracking Using Google Sheets](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day38)
+
+* **Day 39** [Capstone Part 1: Flight Deal Finder](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day39)
+
 
 
 
