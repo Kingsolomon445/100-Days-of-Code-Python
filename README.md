@@ -86,7 +86,67 @@ Still in progress.........
 
 * **Day 39** [Capstone Part 1: Flight Deal Finder](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day39)
 
+* **Day 40** [Intermediate+ Capstone Part 2: Flight Club](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day40)
 
+* **Day 41** [Web Foundation- Introducton to HTML](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day41)
+
+* **Day 42** [Web Foundation - Intermediate HTML](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day42)
+
+* **Day 43** [Web Foundation - Introduction to CSS](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day43)
+
+* **Day 44** [Web Foundation - Intermediate CSS](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day44)
+
+* **Day 45** [Intermediate+ Web Scraping with Beautiful Soup](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day45)
+
+* **Day 46** [Intermediate+ Create a Spotify Playlist using the Musical Time Machine](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day46)
+
+* **Day 47** [Intermediate + Create an Automated Amazon Price Tracker](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day47)
+
+* **Day 48** [Intermediate + Selenium Webdriver Browser and Game Playing Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day48)
+
+* **Day 49** [Intermediate + Automating Job Applications on Linkedln](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day49)
+
+* **Day 50** [Intermediate + Auto Tinder Swiping Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day50)
+
+* **Day 51** [Intermediate + Internet Speed Twitter Complaint Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day51)
+
+* **Day 52** [Intermediate + Instagram Follower Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day52)
+
+* **Day 53** [Intermediate + Web Scraping Capstone - Data Entry Job Automation](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day53)
+
+* **Day 54** [Intermediate + Introduction to Web Development with Flask](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day54)
+
+* **Day 55** [Intermediate + HTML & URL Parsing in Flask and the Higher Lower Game](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day55)
+
+* **Day 56** [Intermediate + Rendering HTML/Static files and using Website Templates](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day56)
+
+* **Day 57** [Intermediate + Templating with Jinja in Flask Applications](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day57)
+
+* **Day 58** [Web Foundation Bootstrap](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day58)
+
+* **Day 59** [Advanced - Blog Capstone Project Part 2 - Adding Styling](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day59)
+
+* **Day 60** [Advanced - Make POST Requests with Flask and HTML Forms](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day60)
+
+* **Day 61** [Advanced - Building Advanced Forms with Flask-WTForms](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day61)
+
+* **Day 62** [Advanced - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day62)
+
+* **Day 63** [Advanced - Databases and with SQLite and SQLAlchemy](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day63)
+
+* **Day 64** [Advanced - My Top 10 Movies Website](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day64)
+
+* **Day 65** [Web Dessign School - How to Create a Website That People will Love](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day65)
+
+* **Day 66** [Advanced - Building your own API with RESTful Routing](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day66)
+
+* **Day 67** [Advanced - Blog Capstone Project Part 3 - RESTful Routing](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day67)
+
+* **Day 68** [Advanced - Authentication with Flask](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day68)
+
+* **Day 69** [Advanced - Blog Capstone Project Part 4 - Adding Users](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day69)
+
+* **Day 70** [Advanced - Deploying your Web Application with Heroku](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day70)
 
 
 
