@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Edit Rating{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+
+        <h1>Book Name: {{ book.title }}</h1>
+        <h3>Current Rating: {{ book.rating }}</h3>
+        {{ wtf.quick_form(form) }}
+
+        <p class="space-above"><a href="{{ url_for('home') }}">See all books</a></p>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
