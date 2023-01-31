@@ -148,7 +148,9 @@ Still in progress.........
 
 * **Day 70** [Advanced - Deploying your Web Application with Heroku](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day70)
 
-* **Day 83** [Professional Portfolio Project - [Python Scripting]]()
+* **Day 81** [Professional Portfolio Project - [Python Scripting] Text To Morse Code converter]()
+
+* **Day 83** [Professional Portfolio Project - [Python Scripting] Tic-Tac-Toe Game](https://github.com/Kingsolomon445/100-Days-of-Code-Python/tree/main/tic_tac_toe)
 
 
 
