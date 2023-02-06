@@ -158,6 +158,8 @@ Still in progress.........
 
 * **Day 88** [Professional Portfolio Project - [Web Development] To Do List](https://github.com/Kingsolomon445/todo-list)
 
+* **Day 90** [Professional Portfolio Project - [HTTP Request and API] Pdf to Audio](https://github.com/Kingsolomon445/100-Days-of-Code-Python/tree/main/Pdf2Speech)
+
 
 
 
