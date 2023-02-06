@@ -152,6 +152,8 @@ Still in progress.........
 
 * **Day 83** [Professional Portfolio Project - [Python Scripting] Tic-Tac-Toe Game](https://github.com/Kingsolomon445/100-Days-of-Code-Python/tree/main/tic_tac_toe)
 
+* **Day 85** [Professional Portfolio Project - [GUI] Typing Speed Test](https://github.com/Kingsolomon445/100-Days-of-Code-Python/tree/main/typing_tester)
+
 * **Day 87** [Professional Portfolio Project - [Web Development] Cafe and WIFI Website](https://github.com/Kingsolomon445/some-web-app-projects/tree/main/cafe)
 
 * **Day 88** [Professional Portfolio Project - [Web Development] To Do List](https://github.com/Kingsolomon445/todo-list)
