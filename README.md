@@ -3,8 +3,6 @@
 
 This is a repository that contains all the tasks and projects i did on the 100 days of code (udemy course) by Angela Yu
 
-Still in progress.........
-
 
 ## Contents
 
@@ -17,8 +15,6 @@ Still in progress.........
 * **Day 4** [Randomisation and Python Lists](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day04)
 
 * **Day 5** [Python Loops](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day05)
-
-* **Day 6** [Python Functions & Karel](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day06)
 
 * **Day 7** [Hangman](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day07)
 
@@ -86,16 +82,6 @@ Still in progress.........
 
 * **Day 39** [Capstone Part 1: Flight Deal Finder](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day39)
 
-* **Day 40** [Intermediate+ Capstone Part 2: Flight Club](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day40)
-
-* **Day 41** [Web Foundation- Introducton to HTML](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day41)
-
-* **Day 42** [Web Foundation - Intermediate HTML](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day42)
-
-* **Day 43** [Web Foundation - Introduction to CSS](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day43)
-
-* **Day 44** [Web Foundation - Intermediate CSS](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day44)
-
 * **Day 45** [Intermediate+ Web Scraping with Beautiful Soup](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day45)
 
 * **Day 46** [Intermediate+ Create a Spotify Playlist using the Musical Time Machine](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day46)
@@ -104,13 +90,7 @@ Still in progress.........
 
 * **Day 48** [Intermediate + Selenium Webdriver Browser and Game Playing Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day48)
 
-* **Day 49** [Intermediate + Automating Job Applications on Linkedln](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day49)
-
 * **Day 50** [Intermediate + Auto Tinder Swiping Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day50)
-
-* **Day 51** [Intermediate + Internet Speed Twitter Complaint Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day51)
-
-* **Day 52** [Intermediate + Instagram Follower Bot](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day52)
 
 * **Day 53** [Intermediate + Web Scraping Capstone - Data Entry Job Automation](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day53)
 
@@ -134,10 +114,6 @@ Still in progress.........
 
 * **Day 63** [Advanced - Databases and with SQLite and SQLAlchemy](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day63)
 
-* **Day 64** [Advanced - My Top 10 Movies Website](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day64)
-
-* **Day 65** [Web Dessign School - How to Create a Website That People will Love](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day65)
-
 * **Day 66** [Advanced - Building your own API with RESTful Routing](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day66)
 
 * **Day 67** [Advanced - Blog Capstone Project Part 3 - RESTful Routing](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day67)
@@ -145,8 +121,6 @@ Still in progress.........
 * **Day 68** [Advanced - Authentication with Flask](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day68)
 
 * **Day 69** [Advanced - Blog Capstone Project Part 4 - Adding Users](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day69)
-
-* **Day 70** [Advanced - Deploying your Web Application with Heroku](https://github.com/Kingsolomon445/100-Days-of-Code-Python-/tree/main/day70)
 
 * **Day 81** [Professional Portfolio Project - [Python Scripting] Text To Morse Code converter](https://github.com/Kingsolomon445/some-python-projects/tree/main/text_morse-code)
 
